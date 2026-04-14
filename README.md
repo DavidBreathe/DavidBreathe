@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DavidBreathe
-- 👀 I’m interested in AI, Power Platform & Dynamics 365 CE
 - 📫 How to reach me david@breathe.no / +47 413 82 965
